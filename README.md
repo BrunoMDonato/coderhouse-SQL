@@ -12,8 +12,7 @@ Para ejecutar este proyecto, se necesita:
 ##  **Instrucciones de Uso**  
 1. Clonar el repositorio:  
 ```bash  
-git clone <URL_DEL_REPOSITORIO>  
-cd <NOMBRE_DEL_REPO>  
+git clone https://github.com/BrunoMDonato/coderhouse-SQL.git
 ```  
 2. Ejecutar `1- Scrip Completo + Donato.sql` para crear la base de datos.  
 3. Implementar los archivos adicionales según sea necesario.  
